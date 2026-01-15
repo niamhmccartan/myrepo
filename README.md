@@ -1,4 +1,5 @@
 # myrepositry
 Testing repositry for R Studio
-This is a line from RStudio
-Testing from R studio
+  This is a line from RStudio
+  Testing from R studio
+  Line added from GitHub
